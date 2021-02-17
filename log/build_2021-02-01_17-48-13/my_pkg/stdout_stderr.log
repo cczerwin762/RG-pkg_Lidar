@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating my_pkg.egg-info
+writing my_pkg.egg-info/PKG-INFO
+writing dependency_links to my_pkg.egg-info/dependency_links.txt
+writing entry points to my_pkg.egg-info/entry_points.txt
+writing requirements to my_pkg.egg-info/requires.txt
+writing top-level names to my_pkg.egg-info/top_level.txt
+writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+reading manifest file 'my_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/lib/python3.6/site-packages/site.py
+Creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/lib/python3.6/site-packages/my-pkg.egg-link (link to .)
+
+Installed /home/cczerwin/ros2_ws/src/my_pkg/build/my_pkg
+running install_data
+creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index
+creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index/resource_index
+creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index/resource_index/packages
+copying resource/my_pkg -> /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/my_pkg
+copying my_pkg/dolly.launch.py -> /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/my_pkg

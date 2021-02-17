@@ -1,0 +1,25 @@
+[0.262s] Invoking command in '/home/cczerwin/ros2_ws/src/my_pkg/build/my_pkg': PYTHONPATH=/home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg --editable --build-directory /home/cczerwin/ros2_ws/src/my_pkg/build/my_pkg/build --no-deps install_data --install-dir /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg
+[0.495s] running develop
+[0.602s] running egg_info
+[0.603s] creating my_pkg.egg-info
+[0.603s] writing my_pkg.egg-info/PKG-INFO
+[0.603s] writing dependency_links to my_pkg.egg-info/dependency_links.txt
+[0.603s] writing entry points to my_pkg.egg-info/entry_points.txt
+[0.604s] writing requirements to my_pkg.egg-info/requires.txt
+[0.604s] writing top-level names to my_pkg.egg-info/top_level.txt
+[0.604s] writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.634s] reading manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.635s] writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.637s] running build_ext
+[0.638s] Creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/lib/python3.6/site-packages/site.py
+[0.639s] Creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/lib/python3.6/site-packages/my-pkg.egg-link (link to .)
+[0.639s] 
+[0.640s] Installed /home/cczerwin/ros2_ws/src/my_pkg/build/my_pkg
+[0.640s] running install_data
+[0.640s] creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index
+[0.641s] creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index/resource_index
+[0.641s] creating /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index/resource_index/packages
+[0.641s] copying resource/my_pkg -> /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/ament_index/resource_index/packages
+[0.641s] copying package.xml -> /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/my_pkg
+[0.641s] copying my_pkg/dolly.launch.py -> /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/share/my_pkg
+[0.669s] Invoked command in '/home/cczerwin/ros2_ws/src/my_pkg/build/my_pkg' returned '0': PYTHONPATH=/home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg --editable --build-directory /home/cczerwin/ros2_ws/src/my_pkg/build/my_pkg/build --no-deps install_data --install-dir /home/cczerwin/ros2_ws/src/my_pkg/install/my_pkg
