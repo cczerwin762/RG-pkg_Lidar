@@ -23,7 +23,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-	    'reading_laser_node = my_pkg.reading_laser:main', 
+	    'reading_laser_node = my_pkg.reading_laser:main',
+			'move_robot_node = my_pkg.move_robot:main'
         ],
     },
 )
